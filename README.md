@@ -1,1 +1,5 @@
-#This is the script to convert the JHU recored data from rosbag format to video RGB images(.jpg) and kinematics files(.txt).
+# CUHK-JHU Cross-Site Peg Transfer Dataset Description
+
+## Data Size
+CUHK: 12 trials
+JHU: 12 trials
