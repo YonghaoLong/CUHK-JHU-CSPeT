@@ -1,22 +1,32 @@
 # CUHK-JHU Cross-Site Peg Transfer Dataset (CUHK-JHU CSPeT) Description
 
-## [Project page and download link](https://appsrv.cse.cuhk.edu.hk/~yhlong/mrgnet.html).
+## [Project page](https://drive.google.com/drive/folders/1tklk7GH4OE9P8TKhESRAYVu0LmnYoCMV) and [download link](https://appsrv.cse.cuhk.edu.hk/~yhlong/mrgnet.html). 
 
 ## Task
 
 Peg transfer.
 
+Anotation:
+0--A1: Idle (No action performed); 
+1--A2: Reach for peg (with left hand); 
+2--A3: Lift peg (with left hand); 
+3--A4: Exchange (transfer the peg to right hand); 
+4--A5: Place peg (with right hand).
+
 ## Data size
 
-### CUHK: 12 trials (12 MP4 videos, 12 kinematics txt files).
+### CUHK: 12 trials (12 AVI videos, 12 kinematics txt files).
 ### JHU: 12 trials (12 rosbag files).
 
 ## Data format
 
 ### CUHK:
 
+Kinematics format: position x, position y,pPosition z, velocity x, velocity y, velocity x, rotation x, rotation y, rotation z, jaw state
+Video format: AVI videos, MPEG-4 encoder, 30Hz
+
 ### JHU:
-&ensp;ROS Topic:
+&ensp;&ensp;ROS Bag Topics:
 
     /PSM1/jacobian_spatial                         : std_msgs/Float64MultiArray
     /PSM1/position_cartesian_current               : geometry_msgs/PoseStamped 
