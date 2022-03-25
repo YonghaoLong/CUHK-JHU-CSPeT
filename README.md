@@ -23,8 +23,13 @@ Annotation:
 
 ### CUHK:
 
-Kinematics format: position x, position y,pPosition z, velocity x, velocity y, velocity x, rotation x, rotation y, rotation z, jaw state
-Video format: AVI videos, MPEG-4 encoder, 30Hz
+Kinematics format: 
+
+    position x, position y, position z, velocity x, velocity y, velocity x, rotation x, rotation y, rotation z, jaw state
+
+Video format: 
+
+    AVI videos, MPEG-4 encoder, 30Hz
 
 ### JHU:
 &ensp;&ensp;ROS Bag Topics:
