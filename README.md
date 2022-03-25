@@ -1,10 +1,10 @@
-# CUHK-JHU Cross-Site Peg Transfer Dataset Description
+# CUHK-JHU Cross-Site Peg Transfer Dataset (CUHK-JHU CSPeT) Description
 
-## Data Size
+## Data size
 
 ### CUHK: 12 trials
 ### JHU: 12 trials
 
-## Data Preprocessing Script
+## Data processing script
 
-[JHU Side Data Processing](https://github.com/JieYingWu/dvrk_action_embedding/)
+[JHU side data processing script](https://github.com/JieYingWu/dvrk_action_embedding/)
