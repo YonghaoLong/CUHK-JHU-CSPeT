@@ -32,7 +32,7 @@ Video format:
     AVI videos, MPEG-4 encoder, 30Hz
 
 ### JHU:
-&ensp;&ensp;ROS Bag Topics:
+ROS Bag Topics:
 
     /PSM1/jacobian_spatial                         : std_msgs/Float64MultiArray
     /PSM1/position_cartesian_current               : geometry_msgs/PoseStamped 
