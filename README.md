@@ -6,7 +6,7 @@
 
 Peg transfer.
 
-Anotation:
+Annotation:
 
     0--A1: Idle (No action performed); 
     1--A2: Reach for peg (with left hand); 
