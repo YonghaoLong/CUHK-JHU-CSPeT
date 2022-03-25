@@ -14,7 +14,7 @@ Peg transfer.
 ### CUHK:
 
 ### JHU:
-&ensp&ensp&ensp&enspROS Topic:
+&ensp;ROS Topic:
 
     /PSM1/jacobian_spatial                         : std_msgs/Float64MultiArray
     /PSM1/position_cartesian_current               : geometry_msgs/PoseStamped 
