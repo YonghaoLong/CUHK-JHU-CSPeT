@@ -1,6 +1,5 @@
 # CUHK-JHU Cross-Site Peg Transfer Dataset (CUHK-JHU CSPeT) Description
 
-
 ## Task
 
 Peg transfer.
@@ -15,8 +14,7 @@ Peg transfer.
 ### CUHK:
 
 ### JHU:
-
-ROS Topic:
+&ensp&ensp&ensp&enspROS Topic:
 
     /PSM1/jacobian_spatial                         : std_msgs/Float64MultiArray
     /PSM1/position_cartesian_current               : geometry_msgs/PoseStamped 
