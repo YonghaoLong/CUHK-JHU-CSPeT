@@ -1,6 +1,6 @@
-# CUHK-JHU Cross-Site Peg Transfer Dataset (CUHK-JHU CSPeT) Description
+# CUHK-JHU Cross-Site Peg Transfer Dataset (CUHK-JHU CSPeT)
 
-## [Project page](https://drive.google.com/drive/folders/1tklk7GH4OE9P8TKhESRAYVu0LmnYoCMV) and [download link](https://appsrv.cse.cuhk.edu.hk/~yhlong/mrgnet.html). 
+## [Project page](https://appsrv.cse.cuhk.edu.hk/~yhlong/mrgnet.html) and [download link](https://drive.google.com/drive/folders/1tklk7GH4OE9P8TKhESRAYVu0LmnYoCMV). 
 
 ## Task
 
