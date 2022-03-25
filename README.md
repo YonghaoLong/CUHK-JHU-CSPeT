@@ -16,17 +16,18 @@ Peg transfer.
 
 ### JHU:
 
-ROS topics:      
-             /PSM1/jacobian_spatial                     : std_msgs/Float64MultiArray
-             /PSM1/position_cartesian_current               : geometry_msgs/PoseStamped 
-             /PSM1/state_jaw_current                        : sensor_msgs/JointState    
-             /PSM1/state_joint_current                      : sensor_msgs/JointState    
-             /PSM2/jacobian_spatial                         : std_msgs/Float64MultiArray
-             /PSM2/position_cartesian_current               : geometry_msgs/PoseStamped 
-             /PSM2/state_jaw_current                        : sensor_msgs/JointState    
-             /PSM2/state_joint_current                      : sensor_msgs/JointState    
-             /jhu_daVinci/left/decklink/camera/image_raw    : sensor_msgs/Image         
-             /jhu_daVinci/right/decklink/camera/image_raw    : sensor_msgs/Image
+ROS Topic:
+
+    /PSM1/jacobian_spatial                         : std_msgs/Float64MultiArray
+    /PSM1/position_cartesian_current               : geometry_msgs/PoseStamped 
+    /PSM1/state_jaw_current                        : sensor_msgs/JointState    
+    /PSM1/state_joint_current                      : sensor_msgs/JointState    
+    /PSM2/jacobian_spatial                         : std_msgs/Float64MultiArray
+    /PSM2/position_cartesian_current               : geometry_msgs/PoseStamped 
+    /PSM2/state_jaw_current                        : sensor_msgs/JointState    
+    /PSM2/state_joint_current                      : sensor_msgs/JointState    
+    /jhu_daVinci/left/decklink/camera/image_raw    : sensor_msgs/Image         
+    /jhu_daVinci/right/decklink/camera/image_raw   : sensor_msgs/Image
 
 
 ## Data processing script
