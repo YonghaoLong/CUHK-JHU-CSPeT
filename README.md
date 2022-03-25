@@ -7,11 +7,12 @@
 Peg transfer.
 
 Anotation:
-0--A1: Idle (No action performed); 
-1--A2: Reach for peg (with left hand); 
-2--A3: Lift peg (with left hand); 
-3--A4: Exchange (transfer the peg to right hand); 
-4--A5: Place peg (with right hand).
+
+    0--A1: Idle (No action performed); 
+    1--A2: Reach for peg (with left hand); 
+    2--A3: Lift peg (with left hand); 
+    3--A4: Exchange (transfer the peg to right hand); 
+    4--A5: Place peg (with right hand).
 
 ## Data size
 
