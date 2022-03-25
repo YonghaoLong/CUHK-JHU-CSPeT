@@ -7,22 +7,35 @@ Peg transfer.
 
 ## Data size
 
-### CUHK: 12 trials (12 mp4 videos and 12 kinematics txt files)
-### JHU: 12 trials (12 rosbag files)
+### CUHK: 12 trials (12 MP4 videos, 12 kinematics txt files).
+### JHU: 12 trials (12 rosbag files).
 
 ## Data format
 
-### CUHK: 12 trials
+### CUHK:
+
+### JHU:
+
+ROS topics:      
+             /PSM1/jacobian_spatial                     : std_msgs/Float64MultiArray
+             /PSM1/position_cartesian_current               : geometry_msgs/PoseStamped 
+             /PSM1/state_jaw_current                        : sensor_msgs/JointState    
+             /PSM1/state_joint_current                      : sensor_msgs/JointState    
+             /PSM2/jacobian_spatial                         : std_msgs/Float64MultiArray
+             /PSM2/position_cartesian_current               : geometry_msgs/PoseStamped 
+             /PSM2/state_jaw_current                        : sensor_msgs/JointState    
+             /PSM2/state_joint_current                      : sensor_msgs/JointState    
+             /jhu_daVinci/left/decklink/camera/image_raw    : sensor_msgs/Image         
+             /jhu_daVinci/right/decklink/camera/image_raw    : sensor_msgs/Image
+
 
 ## Data processing script
 
 JHU data process: [https://github.com/JieYingWu/dvrk_action_embedding/](https://github.com/JieYingWu/dvrk_action_embedding/).
 
-
+## Citation
 
 If you use the dataset, please cite the following paper.
-
-## Citation
 
       @inproceedings{
       long2021relational,
