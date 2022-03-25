@@ -25,7 +25,7 @@ Annotation:
 
 Kinematics format: 
 
-    position x, position y, position z, velocity x, velocity y, velocity x, rotation x, rotation y, rotation z, jaw state
+    position x, position y, position z, velocity x, velocity y, velocity z, acceleration x, acceleration y, acceleration z, rotation x, rotation y, rotation z, jaw state
 
 Video format: 
 
