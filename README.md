@@ -1,6 +1,6 @@
 # CUHK-JHU MCPeT
 CUHK-JHU Multi-Center Peg Transfer Dataset
-## [Project page](https://appsrv.cse.cuhk.edu.hk/~yhlong/mrgnet.html) and [download link](https://drive.google.com/drive/folders/1tklk7GH4OE9P8TKhESRAYVu0LmnYoCMV). 
+[Project page](https://appsrv.cse.cuhk.edu.hk/~yhlong/mrgnet.html) and [download link](https://drive.google.com/drive/folders/1tklk7GH4OE9P8TKhESRAYVu0LmnYoCMV). 
 
 ## Task
 
